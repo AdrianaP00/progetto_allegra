@@ -1,68 +1,43 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Progetto Allegra",
+    "paragraph": "Creo firmemente que dar de comer es el primer acto de amor. Este valor es la piedra angular y la motivación cotidiana de Progetto Allegra."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+    "paragraph": "Me llamo Rosaría Morici, crecí en un hogar siciliano, donde el lugar principal de la casa siempre fue la cocina. Era allí donde el mundo se reconstruía cada día, el espacio en el que las mujeres intercambiaban y transmitían conocimientos y tradiciones milenarias, pero sobretodo valores e identidad. He registrado en mi memoria, gestos, sabores y texturas que han viajado de una generación a otra, y junto a mi experiencia en el mundo de la hostelería, mi pasión por la historia de la gastronomía y mis estudios en Bellas Artes , me han convertido en lo que soy hoy: una diseñadora de eventos culinarios. En 2016, doce años después de acompañar al chef Ángelo Marino en sus dos más emblemáticos proyectos madrileños : La Taverna Siciliana y el Mercato Ballaro como maître de salle; decidí lanzarme en una aventura propia y crear Progetto Allegra.",
+    "Why": [],
+    "Why2": []
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Cannoli",
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514589/progetto-allegra/Copia_de_Rosa_Gastro25_zjteo0.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514589/progetto-allegra/Copia_de_Rosa_Gastro25_zjteo0.jpg"
+    },
+    {
+      "title": "Frittedda con guaciale e burrata",
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514589/progetto-allegra/frittedda_con_guaciale_e_burrata_2_bdkypt.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514589/progetto-allegra/frittedda_con_guaciale_e_burrata_2_bdkypt.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514598/progetto-allegra/Screenshot_20200907-090226_Instagram_zrjcso.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514598/progetto-allegra/Screenshot_20200907-090226_Instagram_zrjcso.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514593/progetto-allegra/mesa_3_oyiyst.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514593/progetto-allegra/mesa_3_oyiyst.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514583/progetto-allegra/20200907_093118_drm5qm.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514583/progetto-allegra/20200907_093118_drm5qm.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514574/progetto-allegra/16_suucpw.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514574/progetto-allegra/16_suucpw.jpg"
     }
   ],
   "Services": [
@@ -131,33 +106,31 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "https://www.casaarabe.es/images/css/header/casa_arabe.png?1722667908",
+      "name": "Casa Arabe",
+      "job": "Madrid"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "https://www.casaarabe.es/images/css/header/casa_arabe.png?1722667908",
+      "name": "Casa Arabe",
+      "job": "Madrid"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "https://www.casaarabe.es/images/css/header/casa_arabe.png?1722667908",
+      "name": "Casa Arabe",
+      "job": "Madrid"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "https://www.casaarabe.es/images/css/header/casa_arabe.png?1722667908",
+      "name": "Casa Arabe",
+      "job": "Madrid"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "phone": "+34 650745358",
+    "email": "rosa@progettoallegra.com",
+    "instagram": "https://www.instagram.com/progettoallegra",
+    "facebook": "https://www.facebook.com/progettoallegra"
   },
   "Features": [
     {
