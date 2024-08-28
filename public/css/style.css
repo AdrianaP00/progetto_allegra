@@ -1,6 +1,6 @@
 body,
 * {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Baskervville SC", serif;
   font-weight: 300;
   font-style: italic;
 }
@@ -17,7 +17,7 @@ html {
 h2,
 h3,
 h4 {
-  font-family: "Elsie Swash Caps", serif;
+  font-family: "Baskervville SC", serif;
   font-weight: 400;
   font-style: normal;
 }
@@ -69,7 +69,7 @@ a:focus {
 }
 
 .cormorant-garamond-light {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Baskervville SC", serif;
   font-weight: 300;
   font-style: normal;
 }
@@ -109,7 +109,7 @@ hr {
 }
 
 #menu a.navbar-brand {
-  font-family: "Elsie Swash Caps", serif;
+  font-family: "Baskervville SC", serif;
   ;
   font-size: 24px;
   font-weight: 700;
@@ -118,7 +118,7 @@ hr {
 }
 
 #menu.navbar-default .navbar-nav>li>a {
-  font-family: "Lato", sans-serif;
+  font-family: "Baskervville SC", serif;
   text-transform: uppercase;
   color: #555;
   font-size: 15px;
@@ -184,9 +184,9 @@ hr {
 
 .section-title h2 {
   position: relative;
-  margin-top: 10px;
-  margin-bottom: 15px;
-  padding-bottom: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 1px;
 }
 
 .section-title h2::after {
@@ -205,7 +205,7 @@ hr {
 }
 
 .btn-custom {
-  font-family: "Raleway", sans-serif;
+  font-family: "Baskervville SC", serif;
   text-transform: uppercase;
   color: #fff;
   background-color: #ff650b;
@@ -263,17 +263,21 @@ a:focus,
 }
 
 .intro .overlay {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.1);
+}
+
+@font-face {
+  font-family: 'IndentureEnglishPenman';
+
+  src: url('../fonts/fonts/IndentureEnglishPenman.ttf') format('truetype');
 }
 
 .intro h1 {
-  font-family: "Raleway", sans-serif;
-  color: #fff;
-  font-size: 82px;
-  font-weight: 700;
-  text-transform: uppercase;
+  font-family: 'IndentureEnglishPenman';
+  color: #42352a;
+  font-size: 200px;
   margin-top: 0;
-  margin-bottom: 10px;
+  margin-bottom: 320px;
 }
 
 .intro h1 span {
@@ -282,9 +286,9 @@ a:focus,
 }
 
 .intro p {
-  color: #fff;
+  color: #42352a;
   font-size: 22px;
-  font-weight: 300;
+  font-weight: 500;
   line-height: 30px;
   margin: 0 auto;
   margin-bottom: 60px;
@@ -349,7 +353,7 @@ header .intro-text {
 
 #about .about-text li:before {
   content: "\f00c";
-  font-family: "FontAwesome";
+  font-family: "Baskervville SC", serif;
   color: #5ca9fb;
   font-size: 11px;
   font-weight: 300;
@@ -624,7 +628,7 @@ header .intro-text {
 label {
   font-size: 12px;
   font-weight: 400;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Baskervville SC", serif;
   float: left;
 }
 

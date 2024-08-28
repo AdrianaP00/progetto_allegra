@@ -1,44 +1,88 @@
 {
   "Header": {
     "title": "Progetto Allegra",
-    "paragraph": "Creo firmemente que dar de comer es el primer acto de amor. Este valor es la piedra angular y la motivación cotidiana de Progetto Allegra."
+    "paragraph": "Rosa Morici"
   },
   "About": {
-    "paragraph": "Me llamo Rosaría Morici, crecí en un hogar siciliano, donde el lugar principal de la casa siempre fue la cocina. Era allí donde el mundo se reconstruía cada día, el espacio en el que las mujeres intercambiaban y transmitían conocimientos y tradiciones milenarias, pero sobretodo valores e identidad. He registrado en mi memoria, gestos, sabores y texturas que han viajado de una generación a otra, y junto a mi experiencia en el mundo de la hostelería, mi pasión por la historia de la gastronomía y mis estudios en Bellas Artes , me han convertido en lo que soy hoy: una diseñadora de eventos culinarios. En 2016, doce años después de acompañar al chef Ángelo Marino en sus dos más emblemáticos proyectos madrileños : La Taverna Siciliana y el Mercato Ballaro como maître de salle; decidí lanzarme en una aventura propia y crear Progetto Allegra.",
+    "paragraph": "Creo firmemente que dar de comer es el primer acto de amor. Este valor es la piedra angular y la motivación cotidiana de Progetto Allegra. La cocina tiene el mágico poder de reconciliar y reconfortar porque toca la noción de armonía, la alegría de compartir y de sentirse cuidado, comer es probar la vida, compartirla y saborearla entre dos, entre amigos, entre más. Por eso me encanta cocinar, porque independientemente de la cultura y la religión: todo sucede alrededor de la mesa y la comida. Y porque cocinar tiene mucho que ver con el amor, la alegría y el dar y recibir. Al menos así me lo enseñaron mujeres cuidadoras y sabias.",
     "Why": [],
     "Why2": []
   },
   "Gallery": [
     {
-      "title": "Cannoli",
-      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514589/progetto-allegra/Copia_de_Rosa_Gastro25_zjteo0.jpg",
-      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514589/progetto-allegra/Copia_de_Rosa_Gastro25_zjteo0.jpg"
+      "title": "Double tartar de mero y gamba roja de Denia con jengibre y llerba buena",
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724865314/progetto-allegra/Screenshot_20240828_191242_Instagram_khxcmc.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724865314/progetto-allegra/Screenshot_20240828_191242_Instagram_khxcmc.jpg"
+    },
+    
+    {
+      "title": "Carpaccio de cigala con surreduccion y su cabeza rellena",
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724860470/progetto-allegra/20211001_131433_ipi0k1.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724860470/progetto-allegra/20211001_131433_ipi0k1.jpg"
+    },
+   
+    {
+      "title": "Erizo de mar relleno con tartar de gamba roja y su reduccion al tomillo",
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724861124/progetto-allegra/c4e6d2ba-8b42-418f-9e28-c682f98ed275_hzke5w.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724861124/progetto-allegra/c4e6d2ba-8b42-418f-9e28-c682f98ed275_hzke5w.jpg"
     },
     {
-      "title": "Frittedda con guaciale e burrata",
-      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514589/progetto-allegra/frittedda_con_guaciale_e_burrata_2_bdkypt.jpg",
-      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514589/progetto-allegra/frittedda_con_guaciale_e_burrata_2_bdkypt.jpg"
+      "title": "Codorniz rellena de foie y abitas",
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514577/progetto-allegra/20200430_135501_g97y72.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514577/progetto-allegra/20200430_135501_g97y72.jpg"
+    },
+  
+    {
+      "title": "Busiate con pez espada, berenjenas y llerba buena",
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724862011/progetto-allegra/Screenshot_20240828_181504_Instagram_cu1e8c.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724862011/progetto-allegra/Screenshot_20240828_181504_Instagram_cu1e8c.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514598/progetto-allegra/Screenshot_20200907-090226_Instagram_zrjcso.jpg",
-      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514598/progetto-allegra/Screenshot_20200907-090226_Instagram_zrjcso.jpg"
+      "title": "lasaña semicrujiente de ragú de perdices y bechamel de cabra",
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724865626/progetto-allegra/Screenshot_20240828_191913_Instagram_nl1msv.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724865626/progetto-allegra/Screenshot_20240828_191913_Instagram_nl1msv.jpg"
+    },
+    
+
+
+
+    
+    {
+      "title": "Sant' Honoré",
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724863380/progetto-allegra/tempFileForShare_20240828-184135_wfqwby.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724863380/progetto-allegra/tempFileForShare_20240828-184135_wfqwby.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514593/progetto-allegra/mesa_3_oyiyst.jpg",
-      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514593/progetto-allegra/mesa_3_oyiyst.jpg"
+      "title": "Tiramisú",
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514599/progetto-allegra/tiramis%C3%BA_clasico_zsrdst.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514599/progetto-allegra/tiramis%C3%BA_clasico_zsrdst.jpg"
+    },
+    
+    {
+      "title": "Bianco mangiare de almendra con coulies de citricos y anis estrella",
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514578/progetto-allegra/20200609_121337_mihcaa.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514578/progetto-allegra/20200609_121337_mihcaa.jpg"
+    },
+
+    
+    
+    {
+      "title": " ",
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724864190/progetto-allegra/20240625_205502_zqmdm1.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724864190/progetto-allegra/20240625_205502_zqmdm1.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514583/progetto-allegra/20200907_093118_drm5qm.jpg",
-      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514583/progetto-allegra/20200907_093118_drm5qm.jpg"
+      "title": "",
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724864918/progetto-allegra/Screenshot_20240828_190422_Instagram_eikogd.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724864918/progetto-allegra/Screenshot_20240828_190422_Instagram_eikogd.jpg"
     },
+   
     {
-      "title": "Project Title",
-      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514574/progetto-allegra/16_suucpw.jpg",
-      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724514574/progetto-allegra/16_suucpw.jpg"
+      "title": "",
+      "largeImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724865067/progetto-allegra/20240612_185945_vophlp.jpg",
+      "smallImage": "https://res.cloudinary.com/dlybwinmd/image/upload/w_1000,ar_1:1,c_fill,g_auto/v1724865067/progetto-allegra/20240612_185945_vophlp.jpg"
     }
+    
   ],
   "Services": [
     {

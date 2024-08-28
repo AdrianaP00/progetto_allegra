@@ -266,14 +266,21 @@ a:focus,
   background: rgba(0, 0, 0, 0.2);
 }
 
+
+@font-face {
+  font-family: 'IndentureEnglishPenman';
+
+  src: url('../fonts/IndentureEnglishPenman.ttf') format('truetype');
+}
+
 .intro h1 {
-  font-family: "../fonts/fonts/IndentureEnglishPenman_personal_use_demo.ttf";
+  font-family: "IndentureEnglishPenman";
   color: #42352a;
   font-size: 82px;
   font-weight: 700;
   text-transform: uppercase;
   margin-top: 0;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
 
 .intro h1 span {
