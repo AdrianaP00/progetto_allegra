@@ -254,7 +254,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(https://res.cloudinary.com/dlybwinmd/image/upload/v1724514587/progetto-allegra/Copia_de_1_szqdvn.jpg) center center no-repeat;
+  background: url(https://res.cloudinary.com/dlybwinmd/image/upload/v1724856787/progetto-allegra/20160213_212216_2_uhfseu.jpg) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -267,8 +267,8 @@ a:focus,
 }
 
 .intro h1 {
-  font-family: "Raleway", sans-serif;
-  color: #fff;
+  font-family: "../fonts/fonts/IndentureEnglishPenman_personal_use_demo.ttf";
+  color: #42352a;
   font-size: 82px;
   font-weight: 700;
   text-transform: uppercase;
@@ -443,7 +443,7 @@ header .intro-text {
   color: #fff;
   background: linear-gradient(to right,
       #ff822e 0%, #fdd700 100%);
-  padding: 30% 0 0;
+  padding: 45% 0 0;
   height: 100%;
   width: 100%;
   opacity: 0;
@@ -460,6 +460,8 @@ header .intro-text {
   letter-spacing: 1px;
   font-weight: 500;
   text-transform: uppercase;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .hover-bg:hover .hover-text>h4 {
