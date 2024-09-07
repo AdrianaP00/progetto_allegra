@@ -155,7 +155,7 @@
       "job": "Madrid"
     },
     {
-      "img": "https://www.casaarabe.es/images/css/header/casa_arabe.png?1722667908",
+      "img": "../../public/img/logo-white.svg",
       "name": "Casa Arabe",
       "job": "Madrid"
     },
