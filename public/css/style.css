@@ -252,6 +252,7 @@ a:focus,
 /* Header Section */
 .intro {
   display: table;
+  height: 100%;
   width: 100%;
   padding: 0;
   background: url(https://res.cloudinary.com/dlybwinmd/image/upload/v1724856787/progetto-allegra/20160213_212216_2_uhfseu.jpg) center center no-repeat;
@@ -277,7 +278,7 @@ a:focus,
   color: #42352a;
   font-size: 200px;
   margin-top: 0;
-  margin-bottom: 120px;
+  margin-bottom: 160px;
 }
 
 .intro h1 span {
@@ -291,11 +292,11 @@ a:focus,
   font-weight: 500;
   line-height: 30px;
   margin: 0 auto;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
 }
 
 header .intro-text {
-  padding-top: 350px;
+  padding-top: 200px;
   padding-bottom: 200px;
   text-align: center;
 }
