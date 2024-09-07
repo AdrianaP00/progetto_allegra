@@ -150,24 +150,58 @@
   ],
   "Team": [
     {
-      "img": "https://www.casaarabe.es/images/css/header/casa_arabe.png?1722667908",
-      "name": "Casa Arabe",
+      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725724972/CMS_LawNow.e1824866_gdr8ti.svg",
+      "name": "CMS Law",
       "job": "Madrid"
     },
     {
-      "img": "../../public/img/logo-white.svg",
-      "name": "Casa Arabe",
+      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725724829/logo_1_rxpf5e.svg",
+      "name": "Gestair",
       "job": "Madrid"
     },
     {
-      "img": "https://www.casaarabe.es/images/css/header/casa_arabe.png?1722667908",
-      "name": "Casa Arabe",
+      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725724714/logo_kkigrs.svg",
+      "name": "Acento",
       "job": "Madrid"
     },
     {
-      "img": "https://www.casaarabe.es/images/css/header/casa_arabe.png?1722667908",
-      "name": "Casa Arabe",
+      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725724185/centene_logo_2023_redebw.jpg",
+      "name": "Centene Corporation",
       "job": "Madrid"
+    },
+    {
+      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725724608/Ashurst_master_logo_RGB_coral_yc0zho.jpg",
+      "name": "Ashurst",
+      "job": "Madrid"
+    },
+    {
+      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725725077/logo-prodigioso-volcan_vjhkye.svg",
+      "name": "Prodigioso Volcan",
+      "job": "Madrid"
+    },
+    {
+      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725725221/Foil-Logo-1-1024x536_wdj5zu.webp",
+      "name": "The Arc Collection",
+      "job": "Madrid"
+    },
+    {
+      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725726304/fb_profile_pedro_cera1000px-removebg-preview_mfnigi.png",
+      "name": "Pedro Cera Gallery",
+      "job": "Madrid"
+    }
+  ],
+  "Radio": [
+    {
+      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725724972/CMS_LawNow.e1824866_gdr8ti.svg",
+      "name": "Onda Cero",
+      "job": "Madrid",
+      "link": "https://www.ondacero.es/programas/mas-de-uno/audios-podcast/el-rincon-del-mitico-lorenzo-diaz/el-rincon-del-mitico-cocinera-a-domicilio-en-el-progetto-allegra-catering_201802155a85686c0cf2fce58a110570.html"
+    },
+    {
+      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725724829/logo_1_rxpf5e.svg",
+      "name": "esRadio",
+      "job": "Madrid",
+      "link": "https://esradio.libertaddigital.com/fonoteca/2018-05-02/recetuits-progetto-allegra-124275.html"
     }
   ],
   "Contact": {

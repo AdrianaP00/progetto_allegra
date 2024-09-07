@@ -527,7 +527,18 @@ header .intro-text {
   font-weight: 600;
   color: #666;
 }
-
+/* radio Section */
+#radio{
+  padding: 100px 0;
+  justify-content: center;
+}
+#radio h4 {
+  margin: 5px 0;
+}
+#radio .radio-img {
+  height: 130px;
+  width: 240px;
+}
 /* Team Section */
 #team {
   padding: 100px 0;
@@ -538,6 +549,7 @@ header .intro-text {
 }
 
 #team .team-img {
+  height: 130px;
   width: 240px;
 }
 

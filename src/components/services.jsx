@@ -2,27 +2,30 @@ import React from "react";
 
 export const Services = (props) => {
   return (
-    <div id="services" className="text-center">
+    <div id="radio" className="text-center">
       <div className="container">
-        <div className="section-title">
-          <h2>Our Services</h2>
+        <div className="col-md-8 col-md-offset-2 section-title">
+          <h2>Entrevistas</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Escuchame aquí
           </p>
         </div>
-        <div className="row">
-          {props.data
+        <div id="row">
+        {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-4">
+              <div key={`${d.name}-${i}`} className="col-md-8 col-sm-8 radio">
+                <div className="thumbnail">
                   {" "}
-                  <i className={d.icon}></i>
-                  <div className="service-desc">
-                    <h3>{d.name}</h3>
-                    <p>{d.text}</p>
+                  <a href={d.link}>
+                    <img src={d.img} alt="..." className="radio-img" />
+                  </a>
+                  <div className="caption">
+                    <h4>{d.name}</h4>
+                    <p>{d.job}</p>
                   </div>
                 </div>
-              ))
+              </div>
+            ))
             : "loading"}
         </div>
       </div>
