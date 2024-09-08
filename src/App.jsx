@@ -12,6 +12,12 @@ import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
 
+// Vercel
+import { inject } from "@vercel/analytics";
+import { SpeedInsights } from "@vercel/speed-insights/react";
+
+inject();
+
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
   speedAsDuration: true,
@@ -34,6 +40,7 @@ const App = () => {
       <Team data={landingPageData.Team} />
       <Services data={landingPageData.Radio} />
       <Contact data={landingPageData.Contact} />
+      <SpeedInsights />
     </div>
   );
 };
