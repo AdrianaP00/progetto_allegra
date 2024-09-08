@@ -535,10 +535,13 @@ header .intro-text {
 #radio h4 {
   margin: 5px 0;
 }
-#radio .radio-img {
-  height: 130px;
-  width: 240px;
+#radio {
+  margin: 5px 0;
 }
+#radio .radio-img {
+  width: 100%;
+}
+
 /* Team Section */
 #team {
   padding: 100px 0;

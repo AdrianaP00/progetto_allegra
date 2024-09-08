@@ -191,17 +191,18 @@
     }
   ],
   "Radio": [
+    
     {
-      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725724972/CMS_LawNow.e1824866_gdr8ti.svg",
-      "name": "Onda Cero",
-      "job": "Madrid",
-      "link": "https://www.ondacero.es/programas/mas-de-uno/audios-podcast/el-rincon-del-mitico-lorenzo-diaz/el-rincon-del-mitico-cocinera-a-domicilio-en-el-progetto-allegra-catering_201802155a85686c0cf2fce58a110570.html"
-    },
-    {
-      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725724829/logo_1_rxpf5e.svg",
+      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725753711/1_lea3h6.png",
       "name": "esRadio",
       "job": "Madrid",
       "link": "https://esradio.libertaddigital.com/fonoteca/2018-05-02/recetuits-progetto-allegra-124275.html"
+    },
+    {
+      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725753712/2_un1zbe.png",
+      "name": "Onda Cero",
+      "job": "Madrid",
+      "link": "https://www.ondacero.es/programas/mas-de-uno/audios-podcast/el-rincon-del-mitico-lorenzo-diaz/el-rincon-del-mitico-cocinera-a-domicilio-en-el-progetto-allegra-catering_201802155a85686c0cf2fce58a110570.html"
     }
   ],
   "Contact": {
