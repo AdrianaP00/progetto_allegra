@@ -1,40 +1,34 @@
-import { useState } from "react";
-import emailjs from "emailjs-com";
 import React from "react";
+import env from "react-dotenv";
 
-const initialState = {
-  name: "",
-  email: "",
-  message: "",
-};
 export const Contact = (props) => {
-  const [{ name, email, message }, setState] = useState(initialState);
+  const [result, setResult] = React.useState("");
 
-  const handleChange = (e) => {
-    const { name, value } = e.target;
-    setState((prevState) => ({ ...prevState, [name]: value }));
+  const onSubmit = async (event) => {
+    event.preventDefault();
+    setResult("Enviando....");
+    const formData = new FormData(event.target);
+
+    formData.append("access_key", env.WEB3FORMS_ACCESS_KEY);
+
+    const response = await fetch("https://api.web3forms.com/submit", {
+      method: "POST",
+      body: formData,
+    });
+
+    const data = await response.json();
+
+    if (data.success) {
+      setResult("Su Mensaje Fue Enviado Exitosamente!");
+      event.target.reset();
+    } else {
+      console.log("Error", data);
+      setResult(data.message);
+    }
+
+    console.log(data);
   };
-  const clearState = () => setState({ ...initialState });
 
-
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    console.log(name, email, message);
-
-    {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
-
-    emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
-      .then(
-        (result) => {
-          console.log(result.text);
-          clearState();
-        },
-        (error) => {
-          console.log(error.text);
-        }
-      );
-  };
   return (
     <div>
       <div id="contact">
@@ -44,10 +38,12 @@ export const Contact = (props) => {
               <div className="section-title">
                 <h2>Contactame!</h2>
                 <p>
-                  Por favor, complete el siguiente formulario para enviarnos un correo electrónico y nos pondremos en contacto con usted lo antes posible.
+                  Por favor, complete el siguiente formulario para enviarnos un
+                  correo electrónico y nos pondremos en contacto con usted lo
+                  antes posible.
                 </p>
               </div>
-              <form name="sentMessage" validate onSubmit={handleSubmit}>
+              <form name="sentMessage" validate onSubmit={onSubmit}>
                 <div className="row">
                   <div className="col-md-6">
                     <div className="form-group">
@@ -58,7 +54,6 @@ export const Contact = (props) => {
                         className="form-control"
                         placeholder="Nombre"
                         required
-                        onChange={handleChange}
                       />
                       <p className="help-block text-danger"></p>
                     </div>
@@ -72,7 +67,6 @@ export const Contact = (props) => {
                         className="form-control"
                         placeholder="Email"
                         required
-                        onChange={handleChange}
                       />
                       <p className="help-block text-danger"></p>
                     </div>
@@ -86,10 +80,10 @@ export const Contact = (props) => {
                     rows="4"
                     placeholder="Mensaje"
                     required
-                    onChange={handleChange}
                   ></textarea>
                   <p className="help-block text-danger"></p>
                 </div>
+                <span>{result}</span>
                 <div id="success"></div>
                 <button type="submit" className="btn btn-custom btn-lg">
                   Enviar Mensaje
@@ -139,8 +133,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2024 Rosaria Morici.
-            Design by{" "}
+            &copy; 2024 Rosaria Morici. Design by{" "}
             <a href="https://github.com/AdrianaP00" rel="nofollow">
               AdrianaP00
             </a>
