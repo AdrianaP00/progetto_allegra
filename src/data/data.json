@@ -118,34 +118,24 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725757547/4_rhscl6.png",
+      "text": "\"El Progetto Allegra de Rosa Morici no es solo un catering. Es una experiencia única. He tenido la suerte de disfrutar a Rosa en cenas en mi casa y en comidas de trabajo. Cuida con mimo cada detalle de la mesa, te aconseja en la elección de menú y en el maridaje. Con cada explicación de sus platos te traslada a rincones de su amada Sicilia. Es sorprendente, maravillosa y generosa.\"",
+      "name": "Diana Rodríguez Redondo"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725757548/6_k13jkc.png",
+      "text": "\"Impresionante revelación! Excelente cocina italiana exportada a Madrid con profesionalidad. ¡Rosa sabe cómo hacer que la tradición sea creativa y original!Los bollitos de crema con caponata son estupendos: ¡el sabor dulce y suave de las berenjenas combinado con las almendras crujientes te transporta a Sicilia de un bocado!\"",
+      "name": "Elisa Ferrero"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725757547/3_onvkuz.png",
+      "text": "\"Llamé a Rosa para que me organizará la cena de mis cumpleaños, éramos 8 personas. Tengo que admitir que imaginaba el clásico catering, sorprendida me quedé con el trato recibido, Rosa es encantadora y disponible, además todo el menú que he elegido con su ayuda ha sido personalizado con mis deseos y antojos La comida excelente, sabrosa y bella la presentación y es de origen Siciliana ! nos acompañó durante la cena como una mamá italiana. estoy muy contenta de haberla Ilamado una verdadera experiencia, para repetir sin duda.\"",
+      "name": "Marina López"
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "https://res.cloudinary.com/dlybwinmd/image/upload/v1725757547/5_grj0w9.png",
+      "text": "\"Rosaria es una gran profesional, con gusto y atención por el detalle. Pone mucho mimo y entiende lo que quiere el cliente para así dar un servicio cuidado y de gran calidad. Además, posee un sentido especial para la estética, que proyecta y se percibe en su trabajo siempre.\"",
+      "name": "Marta López"
     }
   ],
   "Team": [
