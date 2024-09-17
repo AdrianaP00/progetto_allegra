@@ -204,6 +204,8 @@ hr {
   font-size: 18px;
 }
 
+.btn-position {}
+
 .btn-custom {
   font-family: "Baskervville SC", serif;
   text-transform: uppercase;
@@ -252,7 +254,6 @@ a:focus,
 /* Header Section */
 .intro {
   display: table;
-  height: 100%;
   width: 100%;
   padding: 0;
   background: url(https://res.cloudinary.com/dlybwinmd/image/upload/v1724856787/progetto-allegra/20160213_212216_2_uhfseu.jpg) center center no-repeat;
@@ -263,9 +264,7 @@ a:focus,
   -o-background-size: cover;
 }
 
-.intro .overlay {
-  background: rgba(0, 0, 0, 0.1);
-}
+
 
 @font-face {
   font-family: 'IndentureEnglishPenman';
@@ -526,6 +525,20 @@ header .intro-text {
   font-size: 15px;
   font-weight: 600;
   color: #666;
+}
+
+/* radio Section */
+#radio {
+  padding: 100px 0;
+  justify-content: center;
+}
+
+#radio h4 {
+  margin: 5px 0;
+}
+
+#radio .radio-img {
+  width: 100%;
 }
 
 /* Team Section */
