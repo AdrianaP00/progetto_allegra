@@ -14,7 +14,6 @@ export const Header = (props) => {
                   <span></span>
                 </h1>
                 <span></span>
-             <div className="btn-position">
              <a
                   href="#contact"
                   className="btn btn-custom btn-lg page-scroll"
@@ -26,7 +25,6 @@ export const Header = (props) => {
             </div>
           </div>
         </div>
-      </div>
     </header>
   );
 };

@@ -204,10 +204,6 @@ hr {
   font-size: 18px;
 }
 
-.btn-position{
-  
-}
-
 .btn-custom {
   font-family: "Baskervville SC", serif;
   text-transform: uppercase;
@@ -472,6 +468,7 @@ header .intro-text {
 
 .hover-bg:hover .hover-text>h4 {
   opacity: 1;
+  backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
   -webkit-transform: translateY(0);
   transform: translateY(0);
@@ -528,11 +525,13 @@ header .intro-text {
   font-weight: 600;
   color: #666;
 }
+
 /* radio Section */
-#radio{
+#radio {
   padding: 100px 0;
   justify-content: center;
 }
+
 #radio h4 {
   margin: 5px 0;
 }

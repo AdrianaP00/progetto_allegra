@@ -27,7 +27,7 @@ export const Team = (props) => {
             spaceBetween={30}
             slidesPerView={4}
             pagination={{ clickable: true }}
-            autoplay={{ delay: 2500 }}
+            autoplay={{ delay: 800 }}
             breakpoints={{
               1024: { slidesPerView: 4 },
               768: { slidesPerView: 2 },
