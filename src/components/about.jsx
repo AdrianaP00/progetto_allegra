@@ -7,7 +7,7 @@ export const About = (props) => {
         <div className="row">
           <div className="col-xs-12 col-md-6">
             {" "}
-            <img src="https://res.cloudinary.com/dlybwinmd/image/upload/v1724514577/progetto-allegra/20200602_123804_qtjyf5.jpg" className="img-responsive" alt="" />{" "}
+            <img src="https://res.cloudinary.com/dlybwinmd/image/upload/v1729441658/Colori_Pastello_Carosello_Instagram_Delicato_e_Fotografico_Viaggiare_mcbjzm.png" className="img-responsive" alt="" />{" "}
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">

@@ -113,7 +113,7 @@ hr {
   ;
   font-size: 24px;
   font-weight: 700;
-  color: #c75000;
+  color: #381600;
   text-transform: uppercase;
 }
 
@@ -179,7 +179,7 @@ hr {
 }
 
 .section-title {
-  margin-bottom: 70px;
+  margin-bottom: 40px;
 }
 
 .section-title h2 {
@@ -272,7 +272,7 @@ a:focus,
 
 .intro h1 {
   font-family: 'IndentureEnglishPenman';
-  color: #42352a;
+  color: #381600;
   font-size: 200px;
   margin-top: 0;
   margin-bottom: 160px;
@@ -284,7 +284,7 @@ a:focus,
 }
 
 .intro p {
-  color: #42352a;
+  color: #381600;
   font-size: 22px;
   font-weight: 500;
   line-height: 30px;

@@ -4,10 +4,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/navigation";
-import "swiper/css/pagination";
-import { Autoplay, Pagination, Navigation } from "swiper/modules";
-
-
+import { Autoplay, Navigation } from "swiper/modules";
 
 export const Team = (props) => {
   return (
@@ -23,11 +20,11 @@ export const Team = (props) => {
       <div id="container" style={{ marginBottom: '0px', height: '240px'  }}>
         {props.data ? (
           <Swiper
-            modules={[Navigation, Pagination, Autoplay]}
+            modules={[Navigation, Autoplay]}
             spaceBetween={30}
             slidesPerView={4}
-            pagination={{ clickable: true }}
             autoplay={{ delay: 800 }}
+            loop={true}
             breakpoints={{
               1024: { slidesPerView: 4 },
               768: { slidesPerView: 2 },
