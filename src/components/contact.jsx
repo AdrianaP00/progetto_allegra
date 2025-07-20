@@ -134,7 +134,7 @@ export const Contact = (props) => {
         <div className="container text-center">
           <p>
             &copy; 2024 Rosaria Morici. Design by{" "}
-            <a href="https://github.com/Sojobo-tech" rel="nofollow">
+            <a href="https://sojobo.vercel.app/" rel="nofollow">
               Sojobo-tech
             </a>
           </p>
